@@ -10,15 +10,16 @@ O projeto foi criado como estudo prático de Flutter, abordando estrutura de pro
 
 ### Ícone do App
 <p align="center">
-  <img src="assets/images/app_icon.png" alt="NatMusic Icon" width="200"/>
+  <img src="[assets/images/app_icon.png" alt="NatMusic Icon" width="200](https://github.com/user-attachments/assets/fe4a98bd-50ca-447b-a578-0b15f1bb5cf3)"/>
 </p>
 
 ### Tela Principal
 <p align="center">
-  <img src="assets/images/app_screen.png" alt="NatMusic Screenshot" width="300"/>
+  <img src="[assets/images/app_screen.png" alt="NatMusic Screenshot" width="300](https://github.com/user-attachments/assets/a953773c-e00a-4da0-9550-bcfedb52f5fd)"/>
 </p>
 
----
+
+
 
 ## ✨ Funcionalidades
 
