@@ -21,7 +21,9 @@ O projeto foi criado como estudo prático de Flutter, abordando estrutura de pro
 
 
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades![WhatsApp Image 2026-01-03 at 18 20 49](https://github.com/user-attachments/assets/87505d7c-e55f-4268-9819-f5efc8820411)
+![WhatsApp Image 2026-01-03 at 18 25 34](https://github.com/user-attachments/assets/91e5217f-5555-4370-9969-c7c329732613)
+
 
 - ▶️ Reproduzir músicas
 - ➕ Adicionar músicas à lista
