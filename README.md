@@ -1,16 +1,89 @@
-# appmusic
+# 🎵 NatMusic
 
-A new Flutter project.
+NatMusic é um aplicativo mobile desenvolvido em **Flutter**, focado em gerenciamento e reprodução de músicas de forma simples, elegante e intuitiva.
 
-## Getting Started
+O projeto foi criado como estudo prático de Flutter, abordando estrutura de projeto, UI, gerenciamento de estado básico e persistência de dados.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Ícone do App
+<p align="center">
+  <img src="assets/images/app_icon.png" alt="NatMusic Icon" width="200"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tela Principal
+<p align="center">
+  <img src="assets/images/app_screen.png" alt="NatMusic Screenshot" width="300"/>
+</p>
+
+---
+
+## ✨ Funcionalidades
+
+- ▶️ Reproduzir músicas
+- ➕ Adicionar músicas à lista
+- ✏️ Editar músicas
+- 🗑️ Remover músicas
+- 🎨 Interface limpa e moderna
+- 📱 Layout responsivo
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter**
+- **Dart**
+- Material Design
+
+---
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+- Flutter instalado
+- Android Studio ou VS Code
+- Emulador Android ou dispositivo físico
+
+### Passos
+
+```bash
+# Clone o repositório
+git clone https://github.com/nataliakishar/natmusic-flutter.git
+
+# Entre na pasta do projeto
+cd natmusic-flutter
+
+# Instale as dependências
+flutter pub get
+
+lib/
+ ├── main.dart
+ ├── models/
+ ├── screens/
+ ├── widgets/
+assets/
+ └── images/
+
+---
+
+## 🖼️ Agora o passo **muito importante**: onde colocar as imagens
+
+No seu projeto, faça assim:
+
+
+👉 Use exatamente esses nomes para não dar erro no README.
+
+Depois, **confira se o `pubspec.yaml` já tem assets habilitados** (provavelmente sim):
+
+```yaml
+flutter:
+  assets:
+    - assets/images/
+git add README.md assets/images
+git commit -m "Add professional README with app preview"
+
+
+# Execute o app
+flutter run
