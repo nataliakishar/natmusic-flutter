@@ -12,7 +12,7 @@ O projeto foi criado como estudo prático de Flutter, abordando estrutura de pro
 
 ### Tela Principal
 <p align="center">
-  <img src="[assets/images/app_screen.png" width="300](https://github.com/user-attachments/assets/a953773c-e00a-4da0-9550-bcfedb52f5fd)"/>
+  <img src=" width="300](https://github.com/user-attachments/assets/a953773c-e00a-4da0-9550-bcfedb52f5fd)"/>
   
   
 </p>
