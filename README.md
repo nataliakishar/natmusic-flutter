@@ -8,16 +8,27 @@ O projeto foi criado como estudo prático de Flutter, abordando estrutura de pro
 
 ## 📱 Preview
 
-### Ícone do App
-<p align="center">
-  <img src="[assets/images/app_icon.png" alt="NatMusic Icon" width="200](https://github.com/user-attachments/assets/fe4a98bd-50ca-447b-a578-0b15f1bb5cf3)"/>
 
-</p>
 
 ### Tela Principal
 <p align="center">
   <img src="[assets/images/app_screen.png" alt="NatMusic Screenshot" width="300](https://github.com/user-attachments/assets/a953773c-e00a-4da0-9550-bcfedb52f5fd)"/>
   
+  
+</p>
+
+<p >
+
+![WhatsApp Image 2026-01-03 at 18 20 49](https://github.com/user-attachments/assets/db5cb2e9-7d7b-47a3-96ab-1fe3daaa297e)
+  
+</p>
+
+### Ícone do App
+<p align="center">
+
+![WhatsApp Image 2026-01-03 at 18 25 34](https://github.com/user-attachments/assets/8c226f2b-1239-45d8-b08e-247251203b32)
+
+
   
 </p>
 
